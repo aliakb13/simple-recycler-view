@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project Akhir</string>
+    <string name="iem_name">Nama IEM</string>
+    <string name="price">Harga</string>
+    <string name="short_review">Ulasan singkat</string>
+    <string name="detail">Detail</string>
+    <string name="reviewer">Review Singkat</string>
+    <string name="about">About</string>
+    <string name="email">Email</string>
+    <string name="about_name">Nama</string>
+    <string name="about_email">Email</string>
+</resources>
